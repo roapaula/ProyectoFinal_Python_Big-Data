@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @roapaula
+- 👋 Hi, I’m Paula
 - 👀 I’m interested in explore this field of data and being a Data Science or Data analyst
-- 🌱 I’m currently learning Python, SQL, excel pro and several Agiles metodologies. 
+- 🌱 I’m currently learning Python, SQL, excel Pro and several Agiles metodologies. 
 - 📫 You can reach me in LinkedIn and writing me by email
 
 <!---
